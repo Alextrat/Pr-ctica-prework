@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgb(28, 5, 91);
+}
+.tituloRojo{
+    color: darkred;
+}
+.tituloVerde{
+    color: springgreen;
+}
+.tituloAmarillo{
+    color:gold
+}
+.tituloNaranja{
+    color: darkorange;
+}
+.big-text{
+    font-size: large;
+}
+.small-text{
+    font-size: small;
+}
+.color-text{
+    color: blueviolet;
+}
+.weight{
+    font-weight: 100;
+}
+.font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.decoration{
+    text-decoration-line: line-through  ;
+}
+.transform{
+    text-transform: uppercase;
+}
+.box {
+	width: 150px;
+	height: 50px;
+    display: inline-block;
+}
+
+.background-morado {
+	background-color: blueviolet;
+}
+.background-rojo{
+    background-color: coral;
+}
+.background-verde{
+    background-color: chartreuse;
+}
+.margen{
+        padding-left: 50 px;
+        border: 1px solid black;
+}
